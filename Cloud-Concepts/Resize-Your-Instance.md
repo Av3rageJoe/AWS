@@ -55,17 +55,17 @@ Here the limits can be found and add or deleted.
 At any time you can delete your instance if you no longer need it. Once the instance has been terminated, it can not be connected to nor restarted
 This task will teach you how to use temination protection.
 
-## 15. In the actions menu, select Instance state -> terminate
+### 15. In the actions menu, select Instance state -> terminate
 
 When selected the user is informed that Termination Protection is enabled on the web server. This is to prevent the user accidentally terminating the instance. If the user wants to terminate the server, then they must disable Termination Protection.
 
-## 16. Click Cancel
+### 16. Click Cancel
 
-## 17. In the actions menu, select Instance settings -> Change Termination Protection
+### 17. In the actions menu, select Instance settings -> Change Termination Protection
 
-## 18. Click Yes, disable
+### 18. Click Yes, disable
 
-## 19. In the actions menu, select Instance State -> Terminate
+### 19. In the actions menu, select Instance State -> Terminate
 
-## 20. Click yes, terminate. The instance will now have been successfully terminated. 
+### 20. Click yes, terminate. The instance will now have been successfully terminated. 
 
