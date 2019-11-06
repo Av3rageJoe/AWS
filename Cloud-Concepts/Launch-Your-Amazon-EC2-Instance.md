@@ -1,4 +1,4 @@
-# **walkthrough guide for Creating an Amazon EC2 instance**
+# **Walkthrough guide for creating an Amazon EC2 instance**
 
 Amazon's Elastic Compute Cloud (EC2) is a web service that allows for resizeable compute capacity in the cloud. This means that applications can be launched without any upfront commitments. It's purpose is to make web-scale cloud computing easier for developers. The EC2 is a web server in the cloud.
 
@@ -77,5 +77,4 @@ In this lab, the instance will not be logged in to therefore it is not necessary
 
 ### 22. If successful, a box should appear saying "Your Instances are now launching...". Open the link to access your instance in this box.
 
-![Image of successful instance launch]
-(https://github.com/Av3rageJoe/AWS/blob/master/Images/Your%20instances%20are%20now%20launching.png)
+![Image of successful instance launch](https://github.com/Av3rageJoe/AWS/blob/master/Images/Your%20instances%20are%20now%20launching.png)
