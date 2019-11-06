@@ -78,3 +78,5 @@ In this lab, the instance will not be logged in to therefore it is not necessary
 ### 22. If successful, a box should appear saying "Your Instances are now launching...". Open the link to access your instance in this box.
 
 ![Image of successful instance launch](https://github.com/Av3rageJoe/AWS/blob/master/Images/Your%20instances%20are%20now%20launching.png)
+
+Wait for the web server to display that it is running under the instance state section
