@@ -2,7 +2,7 @@
 
 Amazon's Elastic Compute Cloud (EC2) is a web service that allows for resizeable compute capacity in the cloud. This means that applications can be launched without any upfront commitments. It's purpose is to make web-scale cloud computing easier for developers. The EC2 is a web server in the cloud.
 
-### 1. In the Vocareum portal, start a lab and Press the AWS button in the top right corner. An AWS Management console should appear
+### 1. In the Vocareum portal, start a lab and press the AWS button in the top right corner. An AWS Management console should appear
 ### 2. In the AWS management console, choose the services search bar and search for EC2. Then click Launch Service. This will launch a virtual EC2 server. 
 
 ## Choose an Amazon Machine Image (AMI)
