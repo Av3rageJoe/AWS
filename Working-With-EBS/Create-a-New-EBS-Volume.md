@@ -31,4 +31,4 @@ Configure the volume with the following settings
    
 ### 5. Click Create Volume, then Close
 
-Once these steps have been completed, the EBS will be created. The next part of this walk through is Attach the volume to an Instance
+Once these steps have been completed, the EBS will be created. The next part of this walk through is *Attach a volume to an Instance*
