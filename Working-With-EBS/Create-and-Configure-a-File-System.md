@@ -38,3 +38,12 @@ The storage can be seen called "xvdf":
 
 ![The added data storage location](https://github.com/Av3rageJoe/AWS/blob/master/Images/Screenshot%202019-11-13%20at%2016.11.14.png)
 
+### 6. On the mounted volume, create a file and add some text to it
+
+Run the command **sudo sh -c "echo some text has been written > /mnt/data-store/file.txt"**
+
+This will create a text file in the new file called "file.txt" with the contents "some text has been written" contained within
+
+### 7. Verify the file has been added with its contents by running the command "*cat /mnt/data-store/file.txt*"
+
+A file system should now have been created on the Instance. The next part of this tutorial can be found under *Create-an-Amazon-EBS-Snapshot*
