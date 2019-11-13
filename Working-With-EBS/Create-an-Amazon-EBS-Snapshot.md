@@ -25,4 +25,4 @@ Your snapshot should be displayed. It will start with a state of *pending* as it
 
 ### 7. Verify that the file has been deleted using the command called "ls /mnt/data-store"
 
-A snapshot should have now been created of the EBS volume. The next part of this walkthrough is located under "Restore-the-Amazon-EBS-Snapshot*
+A snapshot should have now been created of the EBS volume. The next part of this walkthrough is located under "Restore-the-Amazon-EBS-Snapshot"
