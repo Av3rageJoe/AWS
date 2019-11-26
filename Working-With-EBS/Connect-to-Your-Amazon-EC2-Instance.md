@@ -14,7 +14,7 @@ Running this command will change the permissions of the file so that only the ro
 
 ### 5. Select the "Lab" instance and copy the IPv4 address located under "Description"
 
-### 6. Run the command ssh -i labsuser.pem ec2-user@<IPv4 ADDRESS>
+### 6. Run the command ssh -i labsuser.pem ec2-user@IPv4 ADDRESS
   
 Where the "IPv4 ADDRESS" section is replaced with the IPv4 address of the Instance
 
